@@ -1,7 +1,6 @@
 import subprocess
 import os
 import time
-import sky
 
 def create_public_connection():
     file = "forward.txt"
